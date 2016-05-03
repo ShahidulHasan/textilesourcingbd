@@ -1,0 +1,398 @@
+body {
+    background:url(../images/color_bg.jpg) 100% 0 repeat;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    font-weight:bold;
+    font-family:"Comic Sans MS", cursive, sans-serif;   
+    font-size:10px;
+    color: #ddd; 
+    overflow-x: hidden;
+}
+                    table { font-family: verdana, arial, sans-serif; color: #535353; font-size: 1em;  background: none; }
+                    #launch
+                    { font-family: tahoma,sans-serif; }
+                    a#launch
+                    { text-decoration: none; color: #535353; }
+                    a#launch:HOVER
+                    { text-decoration: underline; color: #f90; }
+                    .ifM_header
+                    { cursor: Move; }
+                    #overview a { color: darkgreen; text-decoration: none; }
+                    #overview a:HOVER { color: #f90; }
+                    #jGlide_001 { /* Hide Menu Until Ready(Optional) */ }
+                    
+                    .logoH{
+margin: 0px auto; 
+                        width: 945px;
+                        height: 50px;
+                    }
+    .picHeader{
+        width: 96%;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-size: 25px;
+        text-align: left;
+        color: #8C2D00;
+        font-weight: bold;
+        height: 40px;
+        padding: 5px;
+        margin: 0px auto;
+    } 
+
+
+        .CompanyProfile {
+            font-family: "Comic Sans MS", cursive, sans-serif; 
+            font-style: normal;
+            font-size: 16px;
+            padding: 5px;
+            color: black;
+            width: 75%;
+            float: left;
+        }
+        .sisterConsernLink {
+            color: #CC0099
+        }
+
+        .sisHeader {
+            color: #CC0099;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .sisterConsernHeading {
+            color: #FF00FF;
+            font-size: 16px;
+        }
+        .centerTop{
+           text-align: center;
+            margin: 0px auto;
+            width: 100%;
+            height: 120px;
+            color: black;
+        }
+        .centerTopL{
+            text-align: left;
+
+            float: left;
+            width: 55%;
+            margin-left: 20px;
+            margin-top: 5px;
+        }
+        .centerTopR{
+
+            float: left;
+            width: 25%;
+            margin-top: 5px;
+        }
+        
+        
+    .blogS{
+        width: 99%;
+        height: 100px;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 3px #CCCCCC;
+        margin: 2px auto;
+  -webkit-border-radius: 7px;
+     -moz-border-radius: 7px;
+          border-radius: 7px;
+    }
+    .blogB{
+        width: 99%;
+        height: 300px;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 3px #CCCCCC;
+        margin: 10px auto;
+  -webkit-border-radius: 7px;
+     -moz-border-radius: 7px;
+          border-radius: 7px;
+    }
+    .blogA{
+        height: 24px;
+        width: 99%;
+        margin: 10px auto;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 4px #CCCCCC;
+    }
+    .blogContact{
+        width: 99%;
+        height: 610px;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 3px #CCCCCC;
+        margin: 10px auto;
+  -webkit-border-radius: 7px;
+     -moz-border-radius: 7px;
+          border-radius: 7px;        
+    }
+    .pic{
+        width: 40%;
+        height: 50%;
+        background: none; 
+        padding-left: 10px;
+        padding-top: 15px;
+        float: left;
+    }
+    .tex{
+        color: black;
+        font-size: 15px;
+        width: 55%;
+        height: 50%;
+        background: none;
+        padding: 5px 10px 10px 0px;
+		margin-top:-5px;
+        float: left;
+        font-weight: normal;
+        font-family: "Comic Sans MS", cursive, sans-serif;   
+    }
+    .texD{
+        color: black;
+        font-size: 15px;
+        width: 95%;
+        height: 20%;
+        background: none;
+        padding: 0px 10px 10px 10px;
+		margin-top:-5px;
+        float: left;
+        font-weight: normal;
+        font-family: "Comic Sans MS", cursive, sans-serif;      
+    }
+    .feedback{
+        background:none;
+        min-height:250px;
+        margin-left:auto;
+        margin-right:auto;
+        padding: 6px;
+        margin-top: 50px;
+        font-family: "Comic Sans MS", cursive, sans-serif; 
+    }
+    input[type="text"]{
+        width: 381px;
+        height:35px;
+    box-shadow: 0 0 3px #CCCCCC;
+    }
+    .head_line1{
+        color: darkred;
+        margin-top: 5px!important;
+
+    }
+    .feedBackLabel{
+        color: black;
+        text-align:left;
+        float: left;
+        margin-left: 25px;
+        margin-top: 5px;
+        font-size: 14px;
+        font-family: "Comic Sans MS", cursive, sans-serif; 
+    }
+    .feedbackText{
+    }  
+.imageS{
+margin: 0px auto; 
+    width: 945px;
+  -webkit-border-radius: 7px;
+     -moz-border-radius: 7px;
+          border-radius: 7px;
+    background: white;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 3px #CCCCCC;
+}
+#imageSl{
+    width: 712px;
+    float: left;
+}
+#imageSr{
+    width: 227px;
+    float: right;
+    margin-right: 6px;
+}
+footer{
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    margin: 0px auto; 
+    width: 945px;
+    height: 25px;
+    font-size: 10px;
+    color: goldenrod;
+    background: none;
+    text-align: left;
+}
+        #map-canvas {
+            height: 50%;
+            width: 84%;
+            margin: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+            border: 1px black solid;
+        }
+        .S1{
+            height: 31%;
+            width: 93%;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10px;
+        }
+        .P1{
+            height: 96%;
+            width: 30%;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 4px #CCCCCC;
+            float: left;
+            text-align: center;
+            padding: 3px;
+            margin-left: 10px;
+        }
+        .PName{
+            height: 20px;
+            width: 92%;
+    border: 1px #DDDDDD solid;
+    box-shadow: 0 0 4px #CCCCCC;
+            padding-bottom: 7px;
+            margin: 0px auto;
+            font-size: 17px;
+            color: #8C2D00;
+            text-align: center;
+        }
+        
+#searchForm{
+    /* The search form. */
+
+    padding:0px;
+    margin:0px;
+    position:relative;
+
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+}
+
+fieldset{
+    border:none;
+}
+
+#s{
+    /* The search text box. */
+
+    border:none;
+    color:#888888;
+    background:url("img/searchBox.png") no-repeat;
+
+    float:left;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:15px;
+    height:36px;
+    line-height:36px;
+    margin-right:12px;
+    outline:medium none;
+    padding:0 0 0 35px;
+    text-shadow:1px 1px 0 white;
+    width:260px;
+}
+.icons{
+    list-style:none;
+    margin:10px 0 0 335px;
+    height:19px;
+    position:relative;
+}
+.icons li{
+    background:url("img/icons.png") no-repeat;
+    float:left;
+    height:19px;
+    text-indent:-999px;
+    cursor:pointer;
+    margin-right:5px;
+}
+
+/* Styling each icon */
+
+li.web{ width:15px;}
+li.web.active,
+li.web:hover{ background-position:left bottom;}
+
+li.images{ width:22px; background-position:-18px 0;}
+li.images.active,
+li.images:hover{ background-position:-18px bottom;}
+
+li.news{ width:14px; background-position:-44px 0;}
+li.news.active,
+li.news:hover{ background-position:-44px bottom;}
+
+li.videos{ width:17px; background-position:right 0;}
+li.videos.active,
+li.videos:hover{ background-position:right bottom;}
+
+span.arrow{
+    /* The little arrow that moves below the icons */
+
+    width:11px;
+    height:6px;
+    margin:21px 0 0 5px;
+    position:absolute;
+    background:url('img/arrow.png') no-repeat;
+    left:0;
+}
+
+/* The submit button */
+
+#submitButton{
+    background:url('img/buttons.png') no-repeat;
+    width:83px;
+    height:36px;
+    overflow:hidden;
+    text-transform:uppercase;
+    border:none;
+    cursor:pointer;
+}
+
+#submitButton:hover{
+    background-position:left bottom;
+}
+.webResult{ text-shadow:1px 1px 0 #586a75;margin-bottom:50px;}
+.webResult h2{
+    background-color:#5D6F7B;
+    font-size:18px;
+    font-weight:normal;
+    padding:8px 20px;
+
+    /* Applying CSS3 rounded corners */
+    -moz-border-radius:18px;
+    -webkit-border-radius:18px;
+    border-radius:18px;
+}
+.webResult h2 b{ color:#fff; }
+.webResult h2 a{ color:#eee;border:none;}
+.webResult p{ line-height:1.5;padding:15px 20px;}
+.webResult p b{ color:white;}
+.webResult > a{ margin-left:20px;}
+
+/* Image & video search results */
+
+.imageResult{
+    float:left;
+    height:100px;
+    margin:0 0 20px 40px;
+    text-align:center;
+    width:150px;
+}
+.imageResult img{ display:block;border:none;}
+.imageResult a.pic{
+    border:1px solid #fff;
+    outline:1px solid #777;
+    display:block;
+    margin:0 auto 15px;
+}
+
+/* The show more button */
+
+#more{
+    width:83px;
+    height:24px;
+    background:url('img/more.png') no-repeat;
+    cursor:pointer;
+    margin:40px auto;
+}
+
+#more:hover{
+    background-position:left bottom;
+}
